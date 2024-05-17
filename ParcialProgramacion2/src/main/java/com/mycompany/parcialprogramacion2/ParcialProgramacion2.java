@@ -3,7 +3,7 @@ CONTENIDO DE LA EVALUACIÓN El torneo de fútbol universitario requiere de una a
 • Añadir equipos, ingresar fechas de partidos e ingresar resultados por parte de un usuario organizador.
  • Registrar los jugadores que pertenecen a cada equipo.
  • Visualizar la tabla de posiciones sin restricciones de usuario
-  */
+ */
 
 package com.mycompany.parcialprogramacion2;
 
@@ -39,7 +39,7 @@ public class ParcialProgramacion2 {
         System.out.println("Partido 1 : " + partido.getPartido3() + " su resultado fue : " + resultado.getResultado3());
         System.out.println("Partido 1 : " + partido.getPartido4() + " su resultado fue : " + resultado.getResultado4());
         
-        System.out.println("---------------------------------");
+        System.out.println("--------------------------------");
         
         System.out.println("Primera posicion : " + posicion.getPosicion1());
         System.out.println("Segunda posicion : " + posicion.getPosicion2());
